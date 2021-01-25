@@ -1,6 +1,6 @@
-# Clean Architecture Sample (ASP.NET Core + Angular )
+# Clean Architecture (ASP.NET Core)
 
-## Clean Architecture Sample
+## Back-end
         
 * Clean Architecture Design
 * ASP.NET Core 3.0
@@ -8,8 +8,9 @@
 * CRUD Operations
 * Dependency Injection
 * AutoMapper
+* ASP.NET Razor
 
-## Angular Sample
+## Front-end
 * Modular
 * Dependency Injection
 * Services
@@ -24,5 +25,3 @@
 * Routing
 * Lazy Loading Modules
 * Http Interceptors
-* Toastr
-* Bootstrap 4
