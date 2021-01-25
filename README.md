@@ -25,3 +25,5 @@
 * Routing
 * Lazy Loading Modules
 * Http Interceptors
+
+## Contact: anhson.duong@gmail.com
