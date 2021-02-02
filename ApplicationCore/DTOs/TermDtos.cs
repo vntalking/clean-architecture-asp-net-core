@@ -16,5 +16,10 @@ namespace ApplicationCore.DTOs
     public class Term : InputTerm
     {
         public int Id { get; set; }
+
+        public Boolean IsValid(int Id)
+        {
+            return (Id > 0);
+        }
     }
 }
